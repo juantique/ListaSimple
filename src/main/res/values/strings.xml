@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+    <string name="dialog_message">Por el momento no hay datos en la lista</string>
+</resources>
